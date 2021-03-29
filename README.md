@@ -12,9 +12,9 @@ Connect all of your parts as shown in this diagram. Please note the program I us
 
 ![image](https://user-images.githubusercontent.com/74504657/112867787-29fb3d00-9070-11eb-94e9-2f211c0ee491.png)
 
-For the code, go to 
+For the code, go to the door.ino file. Put it into the Arduino IDE (https://www.arduino.cc/en/software if you dont have it). Plug your arduino in and upload it.
 
-After that you need to 3D print the parts. Go to https://www.thingiverse.com/thing:4810401 to get them. (I designed these.)
+After that, you need to 3D print the parts. Go to https://www.thingiverse.com/thing:4810401 to get them. (I designed these.)
 
 When you finished that, screw the arduino into the arduino_uno_bottom part. Next, assemble the DROPPER.stl file by glueing the bigger flat piece to the top to make a chamber that holds the projectile. Then slide the servo into place, and glue it. This next step is tricky. Take the smaller square and glue it onto the arm of the servo and make sure it can allow the servo to open and close the chamber. If you want to increase the capacity of the dropper, print magazine.stl and simply slide it on the top of the dropper. Load the projectiles. 
 
