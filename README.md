@@ -6,4 +6,8 @@ When the target opens a door, a servo will open up and release whatever projecti
 
 <h2>Instructions:</h2>
 
-Using a reed switch, an Arduino Uno, 
+Using a reed switch, an Arduino Uno, a servo, and a handfull of wires, you can make this too. 
+
+
+
+
