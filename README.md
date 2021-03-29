@@ -1,6 +1,6 @@
 # ArduinoPrank
 
-A quick code I wrote to prank my parents powered by an Arduino.
+A quick project I made to prank my parents powered by an Arduino.
 
 When the target opens a door, a servo will open up and release whatever projectile you want, whether its marbles(don't recomend), beads, beans, rice, or powder. 
 
@@ -16,7 +16,7 @@ For the code, go to the door.ino file. Put it into the Arduino IDE (https://www.
 
 After that, you need to 3D print the parts. Go to https://www.thingiverse.com/thing:4810401 to get them. (I designed these.)
 
-When you finished that, screw the arduino into the arduino_uno_bottom part. Next, assemble the DROPPER.stl file by glueing the bigger flat piece to the top to make a chamber that holds the projectile. Then slide the servo into place, and glue it. This next step is tricky. Take the smaller square and glue it onto the arm of the servo and make sure it can allow the servo to open and close the chamber. If you want to increase the capacity of the dropper, print magazine.stl and simply slide it on the top of the dropper. Load the projectiles. 
+When you finished that, screw the Arduino into the arduino_uno_bottom part. Next, assemble the DROPPER.stl file by glueing the bigger flat piece to the top to make a chamber that holds the projectile. Then slide the servo into place, and glue it. This next step is tricky. Take the smaller square and glue it onto the arm of the servo and make sure it can allow the servo to open and close the chamber. If you want to increase the capacity of the dropper, print magazine.stl and simply slide it on the top of the dropper. Load the projectiles. 
 
 Mount the wired part of the door sensor on the top of the door frame, and the magnet side the the door itself. Glue the dropper part to the side of the Arduino case. Mount the case to the top of the door frame. For extra storage, insert the magazine. To power with a battery, use a 9V battery and an adapter for an arduino. 
 
