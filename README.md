@@ -24,7 +24,7 @@ Mount the wired part of the door sensor on the top of the door frame, and the ma
 
 
 
-<img src="https://media0.giphy.com/media/LEwGBLb7dClhA4VlMr/giphy.gif" width="40" height="40">
+https://youtu.be/0QXQpJxw0qY to see it in action.
 
 ![image0 (2)](https://user-images.githubusercontent.com/74504657/113441824-d193aa80-93a3-11eb-8a87-b7b23a4277d1.jpeg)
 
