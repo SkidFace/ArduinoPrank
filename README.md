@@ -1,6 +1,6 @@
 # ArduinoPrank
 
-A quick project I made to prank my parents powered by an Arduino.
+A quick project I made to prank people powered by an Arduino.
 
 When the target opens a door, a servo will open up and release whatever projectile you want, whether its marbles(don't recomend), beads, beans, rice, or powder. 
 
