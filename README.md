@@ -20,6 +20,18 @@ When you finished that, screw the Arduino into the arduino_uno_bottom part. Next
 
 Mount the wired part of the door sensor on the top of the door frame, and the magnet side the the door itself. Glue the dropper part to the side of the Arduino case. Mount the case to the top of the door frame. For extra storage, insert the magazine. To power with a battery, use a 9V battery and an adapter for an arduino. 
 
+<h2>Pictures and Videos:</h2>
+
+
+https://user-images.githubusercontent.com/74504657/113441817-cd678d00-93a3-11eb-8934-589be6c2955e.mov
+
+![image0 (2)](https://user-images.githubusercontent.com/74504657/113441824-d193aa80-93a3-11eb-8a87-b7b23a4277d1.jpeg)
+
+![image1 (2)](https://user-images.githubusercontent.com/74504657/113441829-d48e9b00-93a3-11eb-9bd7-61eef78fe905.jpeg)
+
+![image2](https://user-images.githubusercontent.com/74504657/113441845-d7898b80-93a3-11eb-9316-63cbe2bff0ce.jpeg)
+
+
 <h2>Where to get the parts:</h2>
 
 Arduino Uno (cheaper variant)($14): https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU/ref=sxin_10_ac_d_pm?ac_md=1-0-VW5kZXIgJDIw-ac_d_pm&cv_ct_cx=arduino+uno&dchild=1&keywords=arduino+iuno&pd_rd_i=B01EWOE0UU&pd_rd_r=22081792-35d4-4de0-a50d-f63460ab5b78&pd_rd_w=IEcX8&pd_rd_wg=XGbvC&pf_rd_p=fbf6011c-6632-49e8-9631-4e76f7f44920&pf_rd_r=TGSTDV485NEYHXFEJ87X&psc=1&qid=1617038791&sr=1-1-22d05c05-1231-4126-b7c4-3e7a9c0027d0
